@@ -137,4 +137,4 @@ public enum Settings {
     - 다형성이나 상속이 필요없는 클래스
 
 #### 참고 자료
-[링크1|싱글턴 패턴 테코톡](https://www.youtube.com/watch?v=5oUdqn7WeP0)
+[링크1 | 싱글턴 패턴 테코톡](https://www.youtube.com/watch?v=5oUdqn7WeP0)
